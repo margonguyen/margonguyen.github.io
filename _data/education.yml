@@ -1,0 +1,14 @@
+- layout: left
+  name: De anza College
+  dates: 2016 - 2018
+  qualification: AST Computer Science 3.65 GPA
+  
+  description: | # this will include new lines to allow paragraphs
+    During my time at De anza, I developed my interest in coding. I learnt most of my key skills that have I have taken through my school such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+- layout: left
+  name: San Francisco State University
+  dates: 2019 - now  
+  description: |
+    My time im San Francisco is a different experience. I started off slow because I didn't get a chance to get enough major class. I got to be more fluently in C++ because the course help me on better design and implement data structure on a medium-size application. But on the side, I joined 42 intense program in Fremont and developed some skills on teamwork and learning C.
+    On side of classes, I also did more side projects to enhance skills I have learnt before. 
+    

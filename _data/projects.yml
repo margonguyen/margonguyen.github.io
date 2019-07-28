@@ -1,0 +1,26 @@
+- layout: top-middle
+  github: margonguyen
+
+- layout: top-middle
+  name: Social media project
+  link: github.com/margonguyen/socialmedia
+  quote: >
+    A final C++ team-work project in data structure class in De anza
+  description: | # this will include new lines to allow paragraphs
+    With this project, I am able to develop <mark>teamwork</mark> , <mark>problem-solving skills</mark>.
+    Moreover, it was a very fun project because I not only develop a deep understanding in data structure, but also a hand-on experince to make a <mark>C++</mark> functional app
+- layout: top-middle
+  name: Meme generator web app
+  link: github.com/margonguyen/memeGenerator
+  quote: >
+    A side independent project. I always love reading meme, so why not making an app for this
+  description: | # this will include new lines to allow paragraphs
+    I start this project to learn about <mark>React</mark> and how front-end work. I also want to review <mark>CSS</mark> , <mark>HTML</mark> and apply my understanding about fetching data from API. 
+- layout: top-middle
+  name: Friendshit Blog Web App
+  link: github.com/margonguyen/django-web
+  quote: >
+    A side independent project. Just like twitter as it's for the community, my friendshit was made for my friends
+  description: | # this will include new lines to allow paragraphs
+    This is my first web app I made with a help of a friend. I made this because I want to understand a full function web app work.
+    I choose <mark>Django</mark> , because I know some python before. I also think Django is convinient for my first web app because they have many functions built-in in back-end  

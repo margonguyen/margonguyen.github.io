@@ -1,0 +1,55 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Tu Nguyen
+email: margonnguyen@gmail.com
+website: www.github.com/margonguyen
+
+# Social links
+github_username:  margonguyen
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Tu and I'm a Computer Science in San Francisco state. As well as a student, I also a self-learner.
+
+  Experience in language (in order of fluency from left to right):
+  <mark>C++</mark> , <mark>Javascript</mark> , <mark>Java</mark> , <mark>Python</mark> ,<mark>HTML</mark>, <mark>CSS</mark>, , <mark>BASH</mark>
+
+  Version Control: Working knowledge in version control system <mark>Git</mark>
+
+  Other skills: Bilingual in Vietnamese and English
+
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Playing instruments
+   - Gaming
+   - Hiking
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
